@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NIN Brand – New Enrollment Guide</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: #1c1c1c;
+      margin: 0;
+      background: #f7f7f7;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 900px;
+      margin: 2rem auto;
+      background: white;
+      padding: 2rem 3rem;
+      border-radius: 16px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #006633;
+      text-align: center;
+      margin-bottom: 0.5rem;
+    }
+    h2 {
+      background: #006633;
+      color: white;
+      padding: 0.6rem 1rem;
+      border-radius: 8px;
+    }
+    h3 {
+      color: #004d26;
+      margin-top: 1.5rem;
+    }
+    a {
+      color: #006633;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      margin: 0.3rem 0 1rem 1.2rem;
+    }
+    .section {
+      margin-bottom: 2rem;
+    }
+    .highlight {
+      background: #e6f3ec;
+      border-left: 4px solid #006633;
+      padding: 1rem;
+      border-radius: 8px;
+    }
+    .footer {
+      background: #006633;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      border-radius: 0 0 16px 16px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>NIN BRAND</h1>
+    <p style="text-align:center; font-size:1.2rem; margin-top:0;">National Identification Number (NIN) – New Enrollment Guide</p>
+
+    <p style="text-align:center;">Follow the steps below to complete your NIN enrollment. Ensure all required documents are ready before your appointment.</p>
+
+    <div class="section">
+      <h2>STEP 1: Prepare Required Documents</h2>
+      <h3>Adults (18+) born in Nigeria:</h3>
+      <ul>
+        <li>Court Affidavit (Required)</li>
+        <li>VALID Digital NPC Certificate Number (Attestation)</li>
+      </ul>
+      <p>Attestation Link ($20): <a href="https://attestation.nationalpopulation.gov.ng/" target="_blank">https://attestation.nationalpopulation.gov.ng/</a></p>
+      <p><strong>Assistance Available:</strong></p>
+      <ul>
+        <li>Court Affidavit Assistance: $25</li>
+        <li>Digital NPC Attestation Assistance: $10</li>
+        <li>Both Services Bundle: $50</li>
+      </ul>
+      <p>Link for assistance information: <a href="https://forms.gle/tNj8B3kqQE3DcTB16" target="_blank">https://forms.gle/tNj8B3kqQE3DcTB16</a></p>
+
+      <h3>Adults/Children born outside Nigeria:</h3>
+      <ul>
+        <li>Foreign Birth Attestation (Required)</li>
+        <li>Attestation Link ($20): <a href="https://foreignbirth.nationalpopulation.gov.ng/" target="_blank">https://foreignbirth.nationalpopulation.gov.ng/</a></li>
+        <li>Assistance Available: $10</li>
+      </ul>
+
+      <h3>Children (0–17) born in Nigeria:</h3>
+      <ul>
+        <li>VALID Digital NPC Registration Certificate</li>
+        <li><em>Note:</em> Online service currently in development; assistance unavailable.</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>STEP 2: Schedule Appointment & Complete Form</h2>
+      <ul>
+        <li><strong>Booking Fee:</strong> $30 (Non‑refundable unless cancelled before appointment)</li>
+        <li>Book Appointment: <a href="https://calendly.com/iqid_usa/minneapolis" target="_blank">https://calendly.com/iqid_usa/minneapolis</a></li>
+        <li>Download Enrollment Form: <a href="https://iq-online.net/wp-content/uploads/2022/06/KSQ_enrolment_form_v2A.pdf" target="_blank">KSQ Enrollment Form (PDF)</a></li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>STEP 3: Attend Appointment</h2>
+      <ul>
+        <li>Complete biometrics capture at the office (Golden Valley)</li>
+        <li><strong>Enrollment Fee:</strong>
+          <ul>
+            <li>Adults: $70 + tax</li>
+            <li>Minors: $50 + tax</li>
+          </ul>
+        </li>
+        <li>Payment Method: Visa or Mastercard ONLY</li>
+      </ul>
+
+      <div class="highlight">
+        <h3>Items to Bring</h3>
+        <ul>
+          <li>Nigerian Passport (current or expired)</li>
+          <li>For foreign‑born children: Birth certificate + parents’ Nigerian passports</li>
+          <li>Visa or Mastercard for payment</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Payment Information</h2>
+      <ul>
+        <li><strong>Zelle:</strong> 612‑475‑8894 (Abisola)</li>
+        <li><strong>Cash App:</strong> $AbisolaFJNIN</li>
+      </ul>
+    </div>
+
+    <div class="highlight">
+      <p>Our services also include: Change of Name, Change of Address, Change of Phone Number, Change of Date of Birth, Document Notarization, Notary Public, etc.</p>
+    </div>
+
+    <div class="footer">
+      <p>© 2025 NIN Brand | For Nigerians in Minnesota</p>
+    </div>
+  </div>
+</body>
+</html>
